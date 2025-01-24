@@ -31,8 +31,9 @@ I'm a passionate developer with experience in front-end and back-end technologie
   - CSS
   - JavaScript
   - bootstrap
- 
-  - - [**Portfolio developer Website**](https://saad1444.github.io/portfolio-developer/)  
+
+
+  -  [**Portfolio developer Website**](https://saad1444.github.io/portfolio-developer/)  
   *A modern and responsive portfolio website for a web developer, featuring Work Samples, About Me section, and a Contact page to get in touch.*  
   ### **Technologies Used:**
   - HTML
@@ -40,7 +41,7 @@ I'm a passionate developer with experience in front-end and back-end technologie
   - JavaScript
   - bootstrap
  
-  - 
+  
 ## 💻 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saad1444&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
