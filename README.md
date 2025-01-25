@@ -5,7 +5,7 @@ I'm a passionate developer with experience in front-end and back-end technologie
 
 I strive to turn creative ideas into functional and beautiful web experiences. Let’s build something amazing together! 🚀  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saad1444&theme=radical)
+
 
 
 ### Skills & Tools:
