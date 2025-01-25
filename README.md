@@ -55,6 +55,15 @@ I'm a passionate developer with experience in front-end and back-end technologie
   - JavaScript
   - Bootstrap
 
+  - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saad1444&layout=compact&theme=radical)
+
+  - ### Hi there! 👋 Welcome to my GitHub Profile!  
+I'm passionate about web development and building creative projects. Check out my pinned repositories below!  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saad1444&theme=radical)
+
+
+
 
 ## 📫 Contact: 03323108506
 📧 **Email**: gnkhatri936@gmail.com  
